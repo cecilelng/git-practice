@@ -1,6 +1,6 @@
 ---
 title: Making a good cup of tea
-description: This article guides you through the steps to make a good cup of tea. 
+description: This article explains how to make a good cup of tea. 
 ---
 # How to make a good cup of red tea
 
