@@ -30,7 +30,7 @@ There are different types of tea; each tea type has a unique flavor profile. The
 
 To make a good cup of tea, make sure you have the following items:
 
-- [ ] Good quality tea: loose leaf tea or a tea bag
+- [x] Good quality tea: loose leaf tea or a tea bag
 - [ ] A tea cup
 - [ ] A `Smeg` kettle or a pan
 - [ ] A thermometer
@@ -59,6 +59,21 @@ You can now sit back, relax and enjoy a good cup of tea.
 ```bash
 You can never get a cup of tea large enough or a book long enough to suit me.
 ```
+
+## FAQ 
+<details>
+<summary>Does tea contain caffeine?</summary>
+<br>
+Every tea made from the Camellia sinensis plant contains caffeine, regardless of the type of tea. Herbal teas and fruit teas, which are actually infusions, do not contain caffeine.
+
+</details>
+<details>
+<summary>Can tea be reheated?</summary>
+<br>
+Tea should never be reheated. If you prepare tea and then forget about it, it is better to put it in the fridge or add a cube of ice to it, to chill it completely. However, if your tea has been sitting for several hours, it is better just to pour it out and prepare a fresh batch, especially if this is green tea or white tea.
+
+</details>
+
 
 ## Learn more
 
