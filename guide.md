@@ -37,7 +37,7 @@ To make a good cup of tea, make sure you have the following items:
 - [ ] A tea filter if you are using tea leaves
 - [ ] *(optional)* Some milk and sugar
 
-## Making a good cup of black tea
+## Making a good cup of tea
 
 1. Based on your preference, pick one of the following tea forms:
     - Loose leaf tea
